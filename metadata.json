@@ -1,0 +1,5 @@
+{
+  "name": "3D Planet Explorer",
+  "description": "An interactive 3D globe where you can explore countries of the world. Click on a country to zoom in and get interesting facts and a summary powered by the Gemini API.",
+  "requestFramePermissions": []
+}
